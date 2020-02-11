@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "868139538239",
+    "firebase_url": "https://combinedmaths-e5fd5.firebaseio.com",
+    "project_id": "combinedmaths-e5fd5",
+    "storage_bucket": "combinedmaths-e5fd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868139538239:android:d4ce1437813238a375e58a",
+        "android_client_info": {
+          "package_name": "com.example.combinedmaths"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868139538239-ahkgobk76cs2sg7tio7qg13afrd84o4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.combinedmaths",
+            "certificate_hash": "9d8e0d7f563d9838d73df3b7e79a13481abb3b8e"
+          }
+        },
+        {
+          "client_id": "868139538239-fic71tkjgbb98t1ahbo7f9vd02i6a332.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwsRaDvSlflk9bieW7IityL7KhpElHIT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868139538239-fic71tkjgbb98t1ahbo7f9vd02i6a332.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
